@@ -93,7 +93,7 @@ function validate() {
                 timer: 2500, 
                 showConfirmButton: false 
             }, function(){
-                window.location = "https://navintarbt.github.io/sss/"; 
+                window.location = "https://anoulukk.github.io/waiting-page/"; 
                 });
         });
         
